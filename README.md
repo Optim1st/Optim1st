@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Simon @Optim1st Fedorov
-- 👀 I’m interested in DA, BI and web-dev
-- 🌱 I’m currently learning python and how to use it in Data Analysis and trying to understand mathematical statistics
-- 💞️ I really want to have an internship(or even work) in Yandex
-- 📫 How to reach me: https://t.me/SemOptimist
-
+- 👋 Привет, Я Семён @Optim1st Федоров
+- 👀 Я заинтересован в DA, Бизнес-аналитике и веб-разработке
+- 🌱 На данный момент я изучаю python и то как применять его в анализе данных, углубляюсь в математическую статистику.
+- 💞️ Мечтаю о работе в Яндексе
+- 📫 Для связи лучше писать в Telegram: https://t.me/SemOptimist
